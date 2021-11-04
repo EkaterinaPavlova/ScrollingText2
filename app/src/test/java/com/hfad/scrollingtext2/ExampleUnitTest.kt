@@ -1,4 +1,4 @@
-package com.hfad.scrollingtext
+package com.hfad.scrollingtext2
 
 import org.junit.Test
 
